@@ -1,0 +1,61 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "fixed station 008",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2021-04-26T23:18:19.746Z"
+    },
+    {
+      "id": 3,
+      "message": "network down station 995",
+      "attention": false,
+      "tech": "Abdelkrim Bendriss",
+      "date": "2021-04-27T18:30:17.263Z"
+    },
+    {
+      "id": 4,
+      "message": "network down station edited",
+      "attention": true,
+      "tech": "Nadia Akki",
+      "date": "2021-04-27T18:30:10.852Z"
+    },
+    {
+      "id": 5,
+      "message": "fixing phone systeme station 5580",
+      "attention": false,
+      "tech": "Oussama Bendriss",
+      "date": "2021-04-27T18:30:23.223Z"
+    },
+    {
+      "message": "Wifi down because of rain",
+      "attention": false,
+      "tech": "Oussama Bendriss",
+      "date": "2021-04-27T18:30:35.906Z",
+      "id": 6
+    }
+  ],
+  "techs": [
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "firstName": "Oussama",
+      "lastName": "Bendriss",
+      "id": 4
+    },
+    {
+      "firstName": "Abdelkrim",
+      "lastName": "Bendriss",
+      "id": 5
+    },
+    {
+      "firstName": "Nadia",
+      "lastName": "Akki",
+      "id": 6
+    }
+  ]
+}
